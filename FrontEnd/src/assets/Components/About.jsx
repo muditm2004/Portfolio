@@ -38,7 +38,7 @@ export default function About() {
                 </svg>
               </div>
             </a>
-            <a href="#ContactSection" target="_blank">
+            <a href="#ContactSection">
               <div className="socialIcon" title="Email Me">
                 <svg
                   className="socialIcon-SVG"
